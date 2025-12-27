@@ -15,3 +15,5 @@ Only use ROMs you legally own or have permission to use.
 
 ## Local Development
 ```bash
+npm install
+npm run dev
